@@ -3,9 +3,9 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationStyle":"custom",
-				"navigationBarTextStyle":"#fff",
-				"navigationBarTitleText": "爱享生活"
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "爱享生活",
+				"navigationBarBackgroundColor": "#000000"
 			}
 		},{
 			"path": "pages/index/circle",
@@ -15,6 +15,8 @@
 		},{
 			"path": "pages/index/search",
 			"style": {
+				"navigationStyle":"custom",
+				"navigationBarTextStyle":"#fff",
 				"navigationBarTitleText": "搜索"
 			}
 		},{

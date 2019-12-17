@@ -76,7 +76,7 @@
 			position:relative;
 			width: 100%;
 			height: 44px;
-			padding: 10upx 20upx;
+			padding:0 0 0 20rpx;
 			display: flex;
 			align-items: center;
 			justify-content: center;

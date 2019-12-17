@@ -11,7 +11,9 @@
 		}
 	}
 </script>
-
 <style>
+	view{
+		box-sizing:border-box;
+	}
 	/*每个页面公共css */
 </style>
